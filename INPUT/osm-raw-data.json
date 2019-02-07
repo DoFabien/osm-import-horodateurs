@@ -1,0 +1,306 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "osm3s": {
+    "timestamp_osm_base": "2019-02-06T09:03:02Z",
+    "timestamp_areas_base": "2019-02-06T08:33:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2826869155,
+  "lat": 45.1889169,
+  "lon": 5.7340216,
+  "timestamp": "2014-04-30T16:18:56Z",
+  "version": 1,
+  "changeset": 22046492,
+  "user": "Plop76",
+  "uid": 685878,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets"
+  }
+},
+{
+  "type": "node",
+  "id": 2826898737,
+  "lat": 45.1890539,
+  "lon": 5.7330433,
+  "timestamp": "2014-04-30T16:31:18Z",
+  "version": 1,
+  "changeset": 22046492,
+  "user": "Plop76",
+  "uid": 685878,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets"
+  }
+},
+{
+  "type": "node",
+  "id": 2871158030,
+  "lat": 45.1894565,
+  "lon": 5.7295929,
+  "timestamp": "2014-05-20T20:10:42Z",
+  "version": 1,
+  "changeset": 22453605,
+  "user": "Plop76",
+  "uid": 685878,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets"
+  }
+},
+{
+  "type": "node",
+  "id": 3306535263,
+  "lat": 45.1861406,
+  "lon": 5.7298075,
+  "timestamp": "2015-01-23T20:49:50Z",
+  "version": 1,
+  "changeset": 28359164,
+  "user": "Plop76",
+  "uid": 685878,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets"
+  }
+},
+{
+  "type": "node",
+  "id": 3306535274,
+  "lat": 45.1872615,
+  "lon": 5.7306755,
+  "timestamp": "2015-01-23T20:49:50Z",
+  "version": 1,
+  "changeset": 28359164,
+  "user": "Plop76",
+  "uid": 685878,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets"
+  }
+},
+{
+  "type": "node",
+  "id": 3306535275,
+  "lat": 45.1873634,
+  "lon": 5.7304242,
+  "timestamp": "2015-01-23T20:49:50Z",
+  "version": 1,
+  "changeset": 28359164,
+  "user": "Plop76",
+  "uid": 685878,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets"
+  }
+},
+{
+  "type": "node",
+  "id": 4551315314,
+  "lat": 45.1834340,
+  "lon": 5.7039401,
+  "timestamp": "2016-12-12T19:39:04Z",
+  "version": 1,
+  "changeset": 44355280,
+  "user": "Gall",
+  "uid": 51308,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets"
+  }
+},
+{
+  "type": "node",
+  "id": 5851556601,
+  "lat": 45.1777648,
+  "lon": 5.7102348,
+  "timestamp": "2018-08-23T14:42:52Z",
+  "version": 1,
+  "changeset": 61924070,
+  "user": "colargol",
+  "uid": 161202,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5851557196,
+  "lat": 45.1767292,
+  "lon": 5.7129213,
+  "timestamp": "2018-08-23T14:42:41Z",
+  "version": 1,
+  "changeset": 61924070,
+  "user": "colargol",
+  "uid": 161202,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5949111888,
+  "lat": 45.2033706,
+  "lon": 5.7032228,
+  "timestamp": "2018-10-02T16:27:31Z",
+  "version": 1,
+  "changeset": 63129574,
+  "user": "colargol",
+  "uid": 161202,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5949111899,
+  "lat": 45.1997826,
+  "lon": 5.7078811,
+  "timestamp": "2018-10-02T16:27:45Z",
+  "version": 1,
+  "changeset": 63129574,
+  "user": "colargol",
+  "uid": 161202,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5949111900,
+  "lat": 45.1989796,
+  "lon": 5.7089911,
+  "timestamp": "2018-10-02T16:27:46Z",
+  "version": 1,
+  "changeset": 63129574,
+  "user": "colargol",
+  "uid": 161202,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5949111902,
+  "lat": 45.1968046,
+  "lon": 5.7103805,
+  "timestamp": "2018-10-02T16:27:48Z",
+  "version": 1,
+  "changeset": 63129574,
+  "user": "colargol",
+  "uid": 161202,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5949111904,
+  "lat": 45.1960438,
+  "lon": 5.7107505,
+  "timestamp": "2018-10-02T16:27:49Z",
+  "version": 1,
+  "changeset": 63129574,
+  "user": "colargol",
+  "uid": 161202,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5949134587,
+  "lat": 45.2043388,
+  "lon": 5.7019562,
+  "timestamp": "2018-10-02T16:27:30Z",
+  "version": 1,
+  "changeset": 63129574,
+  "user": "colargol",
+  "uid": 161202,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5949134593,
+  "lat": 45.1971722,
+  "lon": 5.7101969,
+  "timestamp": "2018-10-02T16:27:47Z",
+  "version": 1,
+  "changeset": 63129574,
+  "user": "colargol",
+  "uid": 161202,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5949134688,
+  "lat": 45.1993776,
+  "lon": 5.7084515,
+  "timestamp": "2018-10-02T16:27:46Z",
+  "version": 1,
+  "changeset": 63129574,
+  "user": "colargol",
+  "uid": 161202,
+  "tags": {
+    "amenity": "vending_machine",
+    "vending": "parking_tickets",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "area",
+  "id": 3600080348,
+  "tags": {
+    "addr:postcode": "38000;38100",
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Grenoble",
+    "name:ar": "غرونوبل",
+    "name:br": "Grenoblo",
+    "name:el": "Γρενόβλη",
+    "name:frp": "Grenoblo",
+    "name:la": "Cularone",
+    "name:lb": "Grenobel",
+    "name:lt": "Grenoblis",
+    "name:oc": "Grenoble",
+    "name:ru": "Гренобль",
+    "name:sr": "Гренобл",
+    "name:zh": "格勒诺布尔",
+    "population": "155637",
+    "ref:INSEE": "38185",
+    "source:population": "INSEE 2013",
+    "type": "boundary",
+    "wikidata": "Q1289",
+    "wikipedia": "fr:Grenoble"
+  }
+}
+
+  ]
+}
+
